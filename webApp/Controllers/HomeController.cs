@@ -27,6 +27,13 @@ namespace webApp.Controllers
             return View();
         }
 
+        public IActionResult hello()
+        {
+            //ViewData["Message"] = "WOW WOW WOW";
+
+            return View();
+        }
+
         public IActionResult Error()
         {
             return View();

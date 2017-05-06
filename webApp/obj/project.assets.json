@@ -9652,16 +9652,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/surya/apps/dotnet/webApp/webApp.csproj",
+      "projectUniqueName": "/home/surya/apps/DotNet/webApp/webApp.csproj",
       "projectName": "webApp",
-      "projectPath": "/home/surya/apps/dotnet/webApp/webApp.csproj",
-      "outputPath": "/home/surya/apps/dotnet/webApp/obj/",
+      "projectPath": "/home/surya/apps/DotNet/webApp/webApp.csproj",
+      "outputPath": "/home/surya/apps/DotNet/webApp/obj/",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/webApp.dll": "/home/surya/apps/dotnet/webApp/bin/placeholder/netcoreapp1.1/webApp.dll"
+        "lib/netcoreapp1.1/webApp.dll": "/home/surya/apps/DotNet/webApp/bin/placeholder/netcoreapp1.1/webApp.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {
