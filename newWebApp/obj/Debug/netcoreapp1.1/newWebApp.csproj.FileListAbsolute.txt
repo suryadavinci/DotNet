@@ -1,0 +1,8 @@
+/home/surya/apps/DotNet/newWebApp/bin/Debug/netcoreapp1.1/newWebApp.deps.json
+/home/surya/apps/DotNet/newWebApp/bin/Debug/netcoreapp1.1/newWebApp.runtimeconfig.json
+/home/surya/apps/DotNet/newWebApp/bin/Debug/netcoreapp1.1/newWebApp.runtimeconfig.dev.json
+/home/surya/apps/DotNet/newWebApp/bin/Debug/netcoreapp1.1/newWebApp.dll
+/home/surya/apps/DotNet/newWebApp/bin/Debug/netcoreapp1.1/newWebApp.pdb
+/home/surya/apps/DotNet/newWebApp/obj/Debug/netcoreapp1.1/newWebApp.AssemblyInfo.cs
+/home/surya/apps/DotNet/newWebApp/obj/Debug/netcoreapp1.1/newWebApp.dll
+/home/surya/apps/DotNet/newWebApp/obj/Debug/netcoreapp1.1/newWebApp.pdb
